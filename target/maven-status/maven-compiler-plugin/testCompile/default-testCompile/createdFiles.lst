@@ -1,0 +1,3 @@
+com\pageobjects\CustomerLoginPage.class
+com\pageobjects\InboxHome.class
+com\testcases\LoginTest.class
